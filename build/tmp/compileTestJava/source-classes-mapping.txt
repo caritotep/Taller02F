@@ -1,0 +1,28 @@
+pages/MainPage.java
+ pages.MainPage
+factoryBrowser/FactoryBrowser.java
+ factoryBrowser.FactoryBrowser
+pages/loginModal.java
+ pages.loginModal
+factoryBrowser/IBrowser.java
+ factoryBrowser.IBrowser
+control/Button.java
+ control.Button
+factoryBrowser/ChromeProxy.java
+ factoryBrowser.ChromeProxy
+control/TextBox.java
+ control.TextBox
+factoryBrowser/Edge.java
+ factoryBrowser.Edge
+factoryBrowser/Chrome.java
+ factoryBrowser.Chrome
+factoryBrowser/Firefox.java
+ factoryBrowser.Firefox
+control/Label.java
+ control.Label
+singletonSession/Session.java
+ singletonSession.Session
+testCases/LoginTodoLy.java
+ testCases.LoginTodoLy
+control/ControlSelenium.java
+ control.ControlSelenium
